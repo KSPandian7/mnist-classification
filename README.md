@@ -214,7 +214,7 @@ print(x_single_prediction)
 ![OUTPUT](/conm.png)
 
 ### Input Image
-![OUTPUT](/5.jpg)
+<img src="5.jpg" width="190" height="190">
 
 ### New Sample Data Prediction
 
